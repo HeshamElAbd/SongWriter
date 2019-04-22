@@ -5,9 +5,9 @@ A LSTM based language model for the SongLyric database
 $ python Generate_Text.py --model=../Models/inference_model.hf5 --output=../Samples/Sample14.txt --len=1000 --temp=0.6 --cond_string="I love you"
 ##### Example of the Generated Songs: 
 
-Come on baby \n
-When I only have your touch \n
-I said you're listening to me \n
+Come on baby 
+When I only have your touch 
+I said you're listening to me
 
 I was lost with you
 I won't let you be
